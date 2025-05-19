@@ -140,9 +140,19 @@ Walkthrough Video Requirements:
 2. Show yourself starting the application on your device. Then open
 your web browser and navigate to the running React app.
 3. Give us a walkthrough of the features of the app and how they run
-4. Then, show us your code files in VS Code. Give us a quick summary
-of how you organized your app and walk us through your most complicated React and Java file in depth 
-5. Then, tell us which feature requirements were the most difficult for you
+   - When presenting your project, make sure to explain
+       - What your project is
+       - What problem you are solving or what business case you are addressing with your project
+       - What tools did you use to build your project
+       - Why did you use these tools to build your project? 
+5. Then, show us your code files in VS Code. Give us a quick summary
+of how you organized your app and walk us through your most complicated React and Java file in depth
+    -  For each feature that's contained within your React and Java files, make sure to cover the following: 
+        - Why did you structure your code this way?
+        - Why did you use a particular access modifier for your Java code?
+        - Where are you setting your IDs?
+        - How would you improve this feature in the future?
+7. Then, tell us which feature requirements were the most difficult for you
 to implement. Tell us why it was difficult and the process you went through
 to figure them out.
 
